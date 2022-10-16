@@ -1,0 +1,25 @@
+{
+  "name": "stackandqueue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhaibAln/StackAndQueue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhaibAln/StackAndQueue/issues"
+  },
+  "homepage": "https://github.com/SuhaibAln/StackAndQueue#readme",
+  "devDependencies": {
+    "jest": "^29.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
